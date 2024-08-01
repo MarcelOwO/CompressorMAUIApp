@@ -214,6 +214,9 @@
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\zip.scale-100.png">
+      <PackagePath>zip.scale-100.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CompressorApp.deps.json">
       <PackagePath>CompressorApp.deps.json</PackagePath>
     </AppxPackagedFile>
@@ -222,6 +225,12 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\WinRT.Runtime.dll">
       <PackagePath>WinRT.Runtime.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\.nuget\packages\communitytoolkit.maui\9.0.2\lib\net8.0-windows10.0.19041\CommunityToolkit.Maui.dll">
+      <PackagePath>CommunityToolkit.Maui.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\.nuget\packages\communitytoolkit.maui.core\9.0.2\lib\net8.0-windows10.0.19041\CommunityToolkit.Maui.Core.dll">
+      <PackagePath>CommunityToolkit.Maui.Core.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\.nuget\packages\microsoft.extensions.configuration\8.0.0\lib\net8.0\Microsoft.Extensions.Configuration.dll">
       <PackagePath>Microsoft.Extensions.Configuration.dll</PackagePath>
@@ -318,6 +327,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\.nuget\packages\microsoft.windowsappsdk\1.5.240311000\lib\net6.0-windows10.0.18362.0\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll">
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.Net.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\.nuget\packages\system.speech\8.0.0\runtimes\win\lib\net8.0\System.Speech.dll">
+      <PackagePath>System.Speech.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\.nuget\packages\microsoft.maui.controls.core\8.0.61\lib\net8.0-windows10.0.19041\ar\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>ar\Microsoft.Maui.Controls.resources.dll</PackagePath>

@@ -17,7 +17,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CompressorApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+71bede37a4e8b58802cf44b4c9ad11fde56b78c8")]
 [assembly: System.Reflection.AssemblyProductAttribute("CompressorApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CompressorApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -6,6 +6,8 @@ C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\bin\Debug
 C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CompressorApp.pdb
 C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri
 C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CommunityToolkit.Maui.dll
+C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CommunityToolkit.Maui.Core.dll
 C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
 C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
 C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
@@ -38,6 +40,7 @@ C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\bin\Debug
 C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
 C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
 C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\System.Speech.dll
 C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ar\Microsoft.Maui.Controls.resources.dll
 C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ca\Microsoft.Maui.Controls.resources.dll
 C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\cs\Microsoft.Maui.Controls.resources.dll
@@ -148,11 +151,13 @@ C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug
 C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
 C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
 C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\zip.scale-100.png
 C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
 C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.outputs
 C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\CompressorApp.AssemblyInfoInputs.cache
 C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\CompressorApp.AssemblyInfo.cs
 C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\CompressorApp.csproj.CoreCompileInputs.cache
+C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\CompressorApp.sourcelink.json
 C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlC.stamp
 C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Compress.6866EF60.Up2Date
 C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\CompressorApp.dll

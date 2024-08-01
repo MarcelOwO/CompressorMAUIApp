@@ -1,17 +1,24 @@
-﻿namespace CompressorApp;
+﻿using System.Text;
+using CommunityToolkit.Maui.Alerts;
+using CommunityToolkit.Maui.Storage;
+
+namespace CompressorApp;
 
 public partial class MainPage : ContentPage
 {
-    int count = 0;
-
-    public string fileName { get; set; } = string.Empty;
-
+    public string FileName => FileResult?.FileName ?? "No file selected";
+    public FileResult? FileResult { get; set; }
+    
+    public string zipCount = "0";
+    
+    private int _zipCount = 0;
+    
 
     public MainPage()
     {
         InitializeComponent();
+        BindingContext = this;
     }
-
 
     private async Task<FileResult?> PickAndShow(PickOptions options)
     {
@@ -21,25 +28,36 @@ public partial class MainPage : ContentPage
 
             if (result == null) return result;
 
-            if (result.FileName.EndsWith("jpg", StringComparison.OrdinalIgnoreCase) ||
-                result.FileName.EndsWith("png", StringComparison.OrdinalIgnoreCase))
-            {
-                await using var stream = await result.OpenReadAsync();
-                var image = ImageSource.FromStream(() => stream);
-            }
+            OnPropertyChanged(nameof(FileName));
 
             return result;
         }
         catch (Exception ex)
         {
+            Console.WriteLine($"How did we get here? {ex.Message}");
         }
 
         return null;
     }
 
-    private void ButtonPressed(object? sender, EventArgs e)
+    private async Task SaveFile(string fileName, FileStream stream, CancellationToken cancellationToken)
     {
-        FileResult? fileResult = PickAndShow(new()
+        var fileSaverResult = await FileSaver.Default.SaveAsync(fileName, stream, cancellationToken);
+        if (fileSaverResult.IsSuccessful)
+        {
+            await Toast.Make($"The file was saved successfully to location: {fileSaverResult.FilePath}")
+                .Show(cancellationToken);
+        }
+        else
+        {
+            await Toast.Make($"The file was not saved successfully with error: {fileSaverResult.Exception.Message}")
+                .Show(cancellationToken);
+        }
+    }
+
+    public async void SelectButtonPressed(object? sender, EventArgs e)
+    {
+        FileResult = await PickAndShow(new()
         {
             PickerTitle = "Please select a file",
             FileTypes = new FilePickerFileType(
@@ -51,6 +69,34 @@ public partial class MainPage : ContentPage
                     { DevicePlatform.Tizen, new[] { ".png", ".zip" } },
                     { DevicePlatform.macOS, new[] { ".png", ".zip" } }, // UTType values
                 }),
-        }).Result;
+        });
     }
-}
+
+
+    public async void SaveButtonPressed(object? sender, EventArgs e)
+    {
+        var cancellationToken = new CancellationToken();
+        
+        if (FileResult == null)
+        {
+            
+             await Toast.Make($"Please select a file first.")
+                .Show(cancellationToken);
+        }
+        try
+        {
+            await SaveFile(FileResult.FileName, new FileStream(FileResult.FullPath, FileMode.Open),
+                new CancellationToken());
+        }
+        catch (Exception ex)
+        {
+             await Toast.Make($"ex.Message")
+                .Show(cancellationToken);
+        }
+    }
+
+    private void ZipButtonPressed(object? sender, EventArgs e)
+    {
+        throw new NotImplementedException();
+    }
+};

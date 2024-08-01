@@ -1,6 +1,8 @@
 C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\bin\Debug\net8.0-ios\iossimulator-x64\CompressorApp.runtimeconfig.json
 C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\bin\Debug\net8.0-ios\iossimulator-x64\CompressorApp.dll
 C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\bin\Debug\net8.0-ios\iossimulator-x64\CompressorApp.pdb
+C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\bin\Debug\net8.0-ios\iossimulator-x64\CommunityToolkit.Maui.dll
+C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\bin\Debug\net8.0-ios\iossimulator-x64\CommunityToolkit.Maui.Core.dll
 C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\bin\Debug\net8.0-ios\iossimulator-x64\Microsoft.Extensions.Configuration.dll
 C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\bin\Debug\net8.0-ios\iossimulator-x64\Microsoft.Extensions.Configuration.Abstractions.dll
 C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\bin\Debug\net8.0-ios\iossimulator-x64\Microsoft.Extensions.DependencyInjection.dll
@@ -283,6 +285,7 @@ C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug
 C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot@3x.png
 C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot@2x.png
 C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot.png
+C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\Resources\zip.png
 C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-ios\iossimulator-x64\mauiimage.stamp
 C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-ios\iossimulator-x64\mauiimage.outputs
 C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\f\MauiInfo.plist
@@ -304,6 +307,7 @@ C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug
 C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-ios\iossimulator-x64\CompressorApp.AssemblyInfoInputs.cache
 C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-ios\iossimulator-x64\CompressorApp.AssemblyInfo.cs
 C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-ios\iossimulator-x64\CompressorApp.csproj.CoreCompileInputs.cache
+C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-ios\iossimulator-x64\CompressorApp.sourcelink.json
 C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-ios\iossimulator-x64\XamlC.stamp
 C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-ios\iossimulator-x64\Compress.6866EF60.Up2Date
 C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-ios\iossimulator-x64\CompressorApp.dll

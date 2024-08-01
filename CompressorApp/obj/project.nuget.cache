@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Xs4SXPZQu1v2+WV1ARuZnS01nR7I3pVTHaAmtEh+pUrsoiTMhPwL3WbaqDMiYB/3SZ6iiux7PME2nqonCfFuiw==",
+  "dgSpecHash": "0FaktK7ETbOa1Jy39c0XE5APF+jzW1Kbyrq5tT7LtLUqgoR31Db8byZraCFFzM1MUMZoqvukXhWzOkd5FBqFdw==",
   "success": true,
   "projectFilePath": "C:\\Users\\marce.OWO-GAMING-PC\\RiderProjects\\CompressorApp\\CompressorApp\\CompressorApp.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\marce.OWO-GAMING-PC\\.nuget\\packages\\communitytoolkit.maui\\9.0.2\\communitytoolkit.maui.9.0.2.nupkg.sha512",
+    "C:\\Users\\marce.OWO-GAMING-PC\\.nuget\\packages\\communitytoolkit.maui.core\\9.0.2\\communitytoolkit.maui.core.9.0.2.nupkg.sha512",
     "C:\\Users\\marce.OWO-GAMING-PC\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\marce.OWO-GAMING-PC\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "C:\\Users\\marce.OWO-GAMING-PC\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
@@ -28,6 +30,7 @@
     "C:\\Users\\marce.OWO-GAMING-PC\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.7\\microsoft.net.illink.tasks.8.0.7.nupkg.sha512",
     "C:\\Users\\marce.OWO-GAMING-PC\\.nuget\\packages\\microsoft.windows.sdk.buildtools\\10.0.22621.756\\microsoft.windows.sdk.buildtools.10.0.22621.756.nupkg.sha512",
     "C:\\Users\\marce.OWO-GAMING-PC\\.nuget\\packages\\microsoft.windowsappsdk\\1.5.240311000\\microsoft.windowsappsdk.1.5.240311000.nupkg.sha512",
+    "C:\\Users\\marce.OWO-GAMING-PC\\.nuget\\packages\\system.speech\\8.0.0\\system.speech.8.0.0.nupkg.sha512",
     "C:\\Users\\marce.OWO-GAMING-PC\\.nuget\\packages\\xamarin.android.glide\\4.15.1.2\\xamarin.android.glide.4.15.1.2.nupkg.sha512",
     "C:\\Users\\marce.OWO-GAMING-PC\\.nuget\\packages\\xamarin.android.glide.annotations\\4.15.1.2\\xamarin.android.glide.annotations.4.15.1.2.nupkg.sha512",
     "C:\\Users\\marce.OWO-GAMING-PC\\.nuget\\packages\\xamarin.android.glide.disklrucache\\4.15.1.2\\xamarin.android.glide.disklrucache.4.15.1.2.nupkg.sha512",

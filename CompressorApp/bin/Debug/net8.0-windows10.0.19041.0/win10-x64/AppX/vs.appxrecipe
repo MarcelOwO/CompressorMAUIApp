@@ -29,25 +29,25 @@
     <AppXManifest Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-08-01T02:55:39.435</Modified>
+      <Modified>2024-08-01T04:18:03.365</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-08-01T02:41:56.003</Modified>
+      <Modified>2024-08-01T03:38:09.378</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CompressorApp.runtimeconfig.json">
       <PackagePath>CompressorApp.runtimeconfig.json</PackagePath>
-      <Modified>2024-08-01T02:41:55.771</Modified>
+      <Modified>2024-08-01T03:38:09.276</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CompressorApp.dll">
       <PackagePath>CompressorApp.dll</PackagePath>
-      <Modified>2024-08-01T02:55:39.183</Modified>
+      <Modified>2024-08-01T04:18:03.090</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>CompressorApp.exe</PackagePath>
-      <Modified>2024-08-01T02:55:39.184</Modified>
+      <Modified>2024-08-01T04:18:03.093</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -55,23 +55,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2024-08-01T02:41:54.575</Modified>
+      <Modified>2024-08-01T03:38:07.826</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2024-08-01T02:41:54.584</Modified>
+      <Modified>2024-08-01T03:38:07.834</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2024-08-01T02:41:54.595</Modified>
+      <Modified>2024-08-01T03:38:07.845</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2024-08-01T02:41:54.610</Modified>
+      <Modified>2024-08-01T03:38:07.860</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2024-08-01T02:41:54.671</Modified>
+      <Modified>2024-08-01T03:38:07.930</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
@@ -83,211 +83,215 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2024-08-01T02:41:55.361</Modified>
+      <Modified>2024-08-01T03:38:08.744</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2024-08-01T02:41:55.359</Modified>
+      <Modified>2024-08-01T03:38:08.743</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2024-08-01T02:41:55.359</Modified>
+      <Modified>2024-08-01T03:38:08.743</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2024-08-01T02:41:55.359</Modified>
+      <Modified>2024-08-01T03:38:08.743</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2024-08-01T02:41:55.359</Modified>
+      <Modified>2024-08-01T03:38:08.742</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2024-08-01T02:41:55.359</Modified>
+      <Modified>2024-08-01T03:38:08.742</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2024-08-01T02:41:55.360</Modified>
+      <Modified>2024-08-01T03:38:08.744</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2024-08-01T02:41:55.360</Modified>
+      <Modified>2024-08-01T03:38:08.744</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2024-08-01T02:41:55.360</Modified>
+      <Modified>2024-08-01T03:38:08.743</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2024-08-01T02:41:55.360</Modified>
+      <Modified>2024-08-01T03:38:08.744</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2024-08-01T02:41:55.360</Modified>
+      <Modified>2024-08-01T03:38:08.743</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2024-08-01T02:41:55.360</Modified>
+      <Modified>2024-08-01T03:38:08.744</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2024-08-01T02:41:55.360</Modified>
+      <Modified>2024-08-01T03:38:08.744</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2024-08-01T02:41:55.360</Modified>
+      <Modified>2024-08-01T03:38:08.744</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2024-08-01T02:41:55.360</Modified>
+      <Modified>2024-08-01T03:38:08.744</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2024-08-01T02:41:55.360</Modified>
+      <Modified>2024-08-01T03:38:08.744</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2024-08-01T02:41:55.361</Modified>
+      <Modified>2024-08-01T03:38:08.744</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2024-08-01T02:41:55.361</Modified>
+      <Modified>2024-08-01T03:38:08.744</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2024-08-01T02:41:55.361</Modified>
+      <Modified>2024-08-01T03:38:08.744</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2024-08-01T02:41:55.361</Modified>
+      <Modified>2024-08-01T03:38:08.744</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2024-08-01T02:41:55.361</Modified>
+      <Modified>2024-08-01T03:38:08.744</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2024-08-01T02:41:55.361</Modified>
+      <Modified>2024-08-01T03:38:08.744</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2024-08-01T02:41:55.361</Modified>
+      <Modified>2024-08-01T03:38:08.744</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2024-08-01T02:41:55.360</Modified>
+      <Modified>2024-08-01T03:38:08.744</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2024-08-01T02:41:55.361</Modified>
+      <Modified>2024-08-01T03:38:08.744</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2024-08-01T02:41:55.360</Modified>
+      <Modified>2024-08-01T03:38:08.744</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2024-08-01T02:41:55.360</Modified>
+      <Modified>2024-08-01T03:38:08.743</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2024-08-01T02:41:55.360</Modified>
+      <Modified>2024-08-01T03:38:08.743</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2024-08-01T02:41:55.360</Modified>
+      <Modified>2024-08-01T03:38:08.743</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2024-08-01T02:41:55.360</Modified>
+      <Modified>2024-08-01T03:38:08.743</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2024-08-01T02:41:55.359</Modified>
+      <Modified>2024-08-01T03:38:08.743</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2024-08-01T02:41:55.360</Modified>
+      <Modified>2024-08-01T03:38:08.743</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2024-08-01T02:41:55.360</Modified>
+      <Modified>2024-08-01T03:38:08.743</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2024-08-01T02:41:55.360</Modified>
+      <Modified>2024-08-01T03:38:08.743</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2024-08-01T02:41:55.360</Modified>
+      <Modified>2024-08-01T03:38:08.743</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2024-08-01T02:41:55.360</Modified>
+      <Modified>2024-08-01T03:38:08.743</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2024-08-01T02:41:55.360</Modified>
+      <Modified>2024-08-01T03:38:08.743</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2024-08-01T02:41:55.360</Modified>
+      <Modified>2024-08-01T03:38:08.743</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2024-08-01T02:41:55.360</Modified>
+      <Modified>2024-08-01T03:38:08.743</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2024-08-01T02:41:55.360</Modified>
+      <Modified>2024-08-01T03:38:08.743</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2024-08-01T02:41:55.360</Modified>
+      <Modified>2024-08-01T03:38:08.743</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2024-08-01T02:41:55.359</Modified>
+      <Modified>2024-08-01T03:38:08.743</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2024-08-01T02:41:55.359</Modified>
+      <Modified>2024-08-01T03:38:08.743</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2024-08-01T02:41:55.359</Modified>
+      <Modified>2024-08-01T03:38:08.743</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2024-08-01T02:41:55.359</Modified>
+      <Modified>2024-08-01T03:38:08.743</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2024-08-01T02:41:55.359</Modified>
+      <Modified>2024-08-01T03:38:08.743</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2024-08-01T02:41:55.361</Modified>
+      <Modified>2024-08-01T03:38:08.744</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2024-08-01T02:41:55.361</Modified>
+      <Modified>2024-08-01T03:38:08.744</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2024-08-01T02:41:55.361</Modified>
+      <Modified>2024-08-01T03:38:08.744</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2024-08-01T02:41:55.361</Modified>
+      <Modified>2024-08-01T03:38:08.744</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2024-08-01T02:41:55.361</Modified>
+      <Modified>2024-08-01T03:38:08.744</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\zip.scale-100.png">
+      <PackagePath>zip.scale-100.png</PackagePath>
+      <Modified>2024-08-01T03:38:08.744</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\RiderProjects\CompressorApp\CompressorApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CompressorApp.deps.json">
       <PackagePath>CompressorApp.deps.json</PackagePath>
-      <Modified>2024-08-01T02:41:55.752</Modified>
+      <Modified>2024-08-01T03:38:09.239</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
@@ -296,6 +300,14 @@
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\WinRT.Runtime.dll">
       <PackagePath>WinRT.Runtime.dll</PackagePath>
       <Modified>2023-10-16T19:41:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\.nuget\packages\communitytoolkit.maui\9.0.2\lib\net8.0-windows10.0.19041\CommunityToolkit.Maui.dll">
+      <PackagePath>CommunityToolkit.Maui.dll</PackagePath>
+      <Modified>2024-07-05T12:06:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\.nuget\packages\communitytoolkit.maui.core\9.0.2\lib\net8.0-windows10.0.19041\CommunityToolkit.Maui.Core.dll">
+      <PackagePath>CommunityToolkit.Maui.Core.dll</PackagePath>
+      <Modified>2024-07-05T12:06:04.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\.nuget\packages\microsoft.extensions.configuration\8.0.0\lib\net8.0\Microsoft.Extensions.Configuration.dll">
       <PackagePath>Microsoft.Extensions.Configuration.dll</PackagePath>
@@ -424,6 +436,10 @@
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\.nuget\packages\microsoft.windowsappsdk\1.5.240311000\lib\net6.0-windows10.0.18362.0\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll">
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.Net.dll</PackagePath>
       <Modified>2024-03-11T10:57:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\.nuget\packages\system.speech\8.0.0\runtimes\win\lib\net8.0\System.Speech.dll">
+      <PackagePath>System.Speech.dll</PackagePath>
+      <Modified>2023-10-31T15:00:06.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce.OWO-GAMING-PC\.nuget\packages\microsoft.maui.controls.core\8.0.61\lib\net8.0-windows10.0.19041\ar\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>ar\Microsoft.Maui.Controls.resources.dll</PackagePath>
